@@ -1,0 +1,32 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,400;0,700;1,500;1,600&display=swap');
+
+$heading-font-family: 'Montserrat', sans-serif;
+$body-font-family: 'Open Sans', sans-serif;
+
+$fw-reg: 300;
+$fw-med: 400;
+$fw-bold: 900;
+
+$fs-h1: 3rem;
+$fs-h2: 2.25rem;
+$fs-h3: 1.25rem;
+$fs-p: 1.0rem;
+
+// Colors
+$clr-bg: #F3B6A1;
+$clr-primary: #88b9be;
+$clr-secondary: #f39057;
+$clr-black: #151515;
+$clr-white:#fff;
+
+// Background shadow
+$bs: 0.2em 0.2em 0.5em rgba(255, 255, 255, .25),
+0.125em 0.125em 0.25em rgba(255, 255, 255, .15);
+
+$z-tooltip: 10;
+$z-fixed: 100;
+$z-modal: 1000;
+
+$header-hight: 3rem;
